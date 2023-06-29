@@ -1,0 +1,9 @@
+1.	Issue ID
+2.	 Environment
+3.	Priority and severity
+4.	Summary
+5.	Preconditions
+6.	Steps
+7.	Actual results
+8.	Expected results
+9.	Attachments 
